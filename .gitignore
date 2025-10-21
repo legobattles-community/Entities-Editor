@@ -1,0 +1,12 @@
+*.bin
+*.nds
+*.sav
+drawSleepTest.lua
+textfile.txt
+names.txt
+group_visibility.lua
+proj.py
+*.ebp
+bat2/*
+*.xdelta
+/LEGO_BATTLES_C5ZPWR_002
